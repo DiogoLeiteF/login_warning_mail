@@ -4,9 +4,9 @@ from email.message import EmailMessage
 import platform
 import psutil
 
-sender_add='dummypc001@gmail.com' #storing the sender's mail id
-receiver_add='diogoleitefaria@gmail.com' #storing the receiver's mail id
-password='djqzmfnwtfvyzrdo' #storing the password to log in
+sender_add='dummypc@gmail.com' #storing the sender's mail id
+receiver_add='mymail@gmail.com' #storing the receiver's mail id
+password='password' #storing the password to log in
 dtime = dt.datetime.now()
 time = dtime.time()
 date = dtime.date()
